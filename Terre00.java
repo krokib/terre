@@ -14,7 +14,7 @@
 
 */
 
-class Terre00 
+public class Terre00 
 {
     public static void main(String[] args)
     {
